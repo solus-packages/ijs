@@ -1,3 +1,9 @@
+libijs-0.35.so:
+libijs-0.35.so:__bss_start
+libijs-0.35.so:_edata
+libijs-0.35.so:_end
+libijs-0.35.so:_fini
+libijs-0.35.so:_init
 libijs-0.35.so:ijs_client_begin_cmd
 libijs-0.35.so:ijs_client_begin_job
 libijs-0.35.so:ijs_client_begin_page
@@ -40,3 +46,4 @@ libijs-0.35.so:ijs_server_install_list_cb
 libijs-0.35.so:ijs_server_install_set_cb
 libijs-0.35.so:ijs_server_install_status_cb
 libijs-0.35.so:ijs_server_iter
+libijs-0.35.so:ijs_server_procs
